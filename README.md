@@ -7,3 +7,4 @@ Only the thing you want to have is installing the pygame library from your Comma
 pip install pygame
 ```
 Type the above command and press enter to install pygame
+# Overview
